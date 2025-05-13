@@ -5,7 +5,6 @@ public class Array5 {
         System.out.println("Enter size of  array");   
         int n = in.nextInt();
         int[] arr = new int[n];
-        
         System.out.println("Enter element");
         for(int i=0;i<n;i++){
         arr[i]= in.nextInt();
