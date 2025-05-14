@@ -9,7 +9,6 @@ public class Question1 {
         System.out.println("Enter element");
         for(int i=0;i<n;i++){
         arr[i]= in.nextInt();
-        
         }
         int max = arr[0];
         int min = arr[0];
