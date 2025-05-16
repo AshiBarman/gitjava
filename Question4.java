@@ -1,5 +1,5 @@
 public class Question4{
-    public static void sortColors(int[] nums) {
+    public static void sortcolors(int[] nums) {
         int low = 0, mid = 0, high = nums.length - 1;
         
         while (mid <= high) {
@@ -21,7 +21,7 @@ public class Question4{
     
     public static void main(String[] args) {
         int[] arr = {2, 0, 2, 1, 1, 0};
-        sortColors(arr);
+        sortcolors(arr);
         
         System.out.print("Sorted array: ");
         for (int num : arr) {
