@@ -6,3 +6,4 @@ class Question5{
         System.out.println("Reversed String"+"-"+reversed);
     }
 }
+ 
