@@ -18,7 +18,7 @@ public class Question12 {
     }
 
     public static void main(String[] args) {
-        String str = "aaabbbccc";
+        String str = "aaabbbcccccc";
         compression(str);
     }
 }
